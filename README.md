@@ -1,4 +1,4 @@
-# 🌐 Calculadora de Função Quadrática (HTML + CSS + JS)
+# 🧮 Calculadora de Função Quadrática (HTML + CSS + JS)
 
 Este projeto é uma calculadora online de função do 2º grau, desenvolvida com HTML, CSS e JavaScript. Ele permite inserir os coeficientes da equação quadrática e visualizar os principais elementos da parábola.
 
